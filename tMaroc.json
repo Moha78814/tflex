@@ -4,13 +4,17 @@
             "id": "Mr01",
             "title": "Al Aoula",
             "coverImageUrl": "http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png",
-            "videoUrl": ["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8"]
+            "videoUrl": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+            ]
         },
         {
             "id": "Mr02",
             "title": "Arryadia",
             "coverImageUrl": "http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png",
-            "videoUrl": ["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8"]
+            "videoUrl": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+            ]
         },
         {
             "id": "Mr03",
@@ -22,13 +26,68 @@
             "id": "Mr04",
             "title": "Al Maghribya",
             "coverImageUrl": "http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png",
-            "videoUrl": ["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8"]
+            "videoUrl": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+            ]
         },
         {
             "id": "Mr05",
             "title": "Assadissa",
             "coverImageUrl": "http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissa.png",
-            "videoUrl": ["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"]
+            "videoUrl": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+            ]
+        },
+        {
+            "id": "Mr06",
+            "title": "Tamazight",
+            "coverImageUrl": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tamazight-tv-chaine.png",
+            "videoUrl": [
+                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+            ]
+        },
+        {
+            "id": "Mr07",
+            "title": "Al Laayoune",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png",
+            "videoUrl": [
+                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+            ]
+        },
+        {
+            "id": "Mr08",
+            "title": "Medi1 Ar",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
+            "videoUrl": [
+                "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w699630923.m3u8",
+                "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist_w1082520528_b328000_DVR_slar.m3u8",
+                "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/chunklist_w497583384_b978000_DVR_slar.m3u8"
+            ]
+        },
+        {
+            "id": "Mr09",
+            "title": "Medi1 Fr",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
+            "videoUrl": [
+                "https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1382350867.m3u8"
+            ]
+        },
+        {
+            "id": "Mr10",
+            "title": "2M",
+            "coverImageUrl": "https://i.pinimg.com/originals/af/36/84/af36846c297c298f74130fb610d5d8fb.jpg",
+            "videoUrl": [
+                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+            ]
+        },
+        {
+            "id": "Mr11",
+            "title": "télé Maroc",
+            "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhBTc5pKS-ZH93po4M_G_gRmZRB-XiqswWgR4fwMQ=s900-c-k-c0x00ffffff-no-rj",
+            "videoUrl": [
+                ""
+            ]
         }
+
     ]
 }
