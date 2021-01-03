@@ -1,0 +1,153 @@
+{
+    "videos": [
+        {
+            "id": "Sp01",
+            "title": "24h",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
+            "videoUrl": [
+                "https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8"
+                ]
+        },
+        {
+            "id": "Sp02",
+            "title": "La1",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png",
+            "videoUrl": [
+                "https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8",
+                "https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8",
+                "https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8?sd=10&rebase=on"
+                ]
+        },
+        {
+            "id": "Sp03",
+            "title": "La2",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png",
+            "videoUrl": [
+                "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8",
+                "https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8"
+                ]
+        },
+        {
+            "id": "Sp04",
+            "title": "Antena3",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",
+            "videoUrl": [
+                "https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/yg8u4r1hmmubba2.m3u8?s=wolwAMUac9-KXUQ9MwH4pA&e=1609694985"
+                ]
+        },
+        {
+            "id": "Sp05",
+            "title": "Cuatro",
+            "coverImageUrl": "https://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg",
+            "videoUrl": ["https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/k20wk5j.m3u8?s=C4aSkT-Rp1g-NPJ0WNFDWg&e=1609291935"
+                ]
+        },
+        {
+            "id": "Sp06",
+            "title": "Energy",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png",
+            "videoUrl": ["https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/nhdi7t9.m3u8?s=DQXObOSopnpXFIqOlQikUw&e=1609293831"
+                ]
+        },
+        
+
+
+        {
+            "id": "Sp07",
+            "title": "Telemadrid",
+            "coverImageUrl": "https://static.wikia.nocookie.net/logopedia/images/7/73/Free-vector-telemadrid_062753_telemadrid.png/revision/latest/scale-to-width-down/340?cb=20151228230701",
+            "videoUrl": [
+                "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8"
+                ]
+        },
+        {
+            "id": "Sp08",
+            "title": "Trece",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png",
+            "videoUrl": ["https://live-edge-mad-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8"
+                ]
+        },
+        {
+            "id": "Sp09",
+            "title": "Real Madrid",
+            "coverImageUrl": "https://yt3.ggpht.com/-zvPqz5WM4EE/AAAAAAAAAAI/AAAAAAAAAAA/fh1Q0Ycpv2M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "videoUrl": [
+                "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8",
+                "https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=CwcC3YyAqfo1i3Vq_2f5gQ&e=1609725598"
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        },
+        {
+            "id": "Sp0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+                ]
+        }
+
+    ]
+}
