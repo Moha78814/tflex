@@ -1,0 +1,159 @@
+{
+    "videos": [
+        {
+            "id": "Fr01",
+            "title": "France24",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
+            "videoUrl": [
+                "http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8",
+                "http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8"
+            ]
+        },
+        {
+            "id": "Fr02",
+            "title": "France2",
+            "coverImageUrl": "https://agriculteurmoderne.fr/wp-content/uploads/2018/10/Logo_France_2.png",
+            "videoUrl": [
+                "https://sv1.data-stream.top/502251dc0231d54bd32feda099a3228dcab7ebb452277bce1e24b7a973ab03c2/hls/francetv2.m3u8",
+                "https://proxy-021.dc3.dailymotion.com/sec(gGqtclnn_bIC9m3nn5-WqON-BusfupHCQEGIRtOMGPRLvD9ksm_hz3UtamdaifKUBvMmjm_tsZObUZJFUT4hVwfdutRyCGzfg0hM7DIzNPk)/video/515/090/468090515_mp4_h264_aac_hq_24.m3u8"
+            ]
+        },
+        {
+            "id": "Fr03",
+            "title": "France3",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/France_3_logo_2016.svg/1200px-France_3_logo_2016.svg.png",
+            "videoUrl": [
+                "https://sv1.data-stream.top/502251dc0231d54bd32feda099a3228dcab7ebb452277bce1e24b7a973ab03c2/hls/france3.m3u8"
+            ]
+        },
+        {
+            "id": "Fr04",
+            "title": "France5",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_France_5.svg/1200px-Logo_France_5.svg.png",
+            "videoUrl": [
+                "https://sv1.data-stream.top/502251dc0231d54bd32feda099a3228dcab7ebb452277bce1e24b7a973ab03c2/hls/france5.m3u8"
+            ]
+        },
+        {
+            "id": "Fr05",
+            "title": "arte",
+            "coverImageUrl": "https://liberador.net/media/images/ARTE.max-640x640.jpg",
+            "videoUrl": [
+                "https://sv1.data-stream.top/502251dc0231d54bd32feda099a3228dcab7ebb452277bce1e24b7a973ab03c2/hls/artefr.m3u8"
+            ]
+        },
+        {
+            "id": "Fr06",
+            "title": "C8",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Logo_C8.svg/1200px-Logo_C8.svg.png",
+            "videoUrl": [
+                "https://sv1.data-stream.top/502251dc0231d54bd32feda099a3228dcab7ebb452277bce1e24b7a973ab03c2/hls/d8france.m3u8"
+            ]
+        },
+        {
+            "id": "Fr09",
+            "title": "W9",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_W9_2018.svg/1200px-Logo_W9_2018.svg.png",
+            "videoUrl": [
+                "https://sv1.data-stream.top/502251dc0231d54bd32feda099a3228dcab7ebb452277bce1e24b7a973ab03c2/hls/w9france.m3u8"
+            ]
+        },
+        {
+            "id": "Fr10",
+            "title": "tmc",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1200px-TMC_logo_2016.svg.png",
+            "videoUrl": [
+                "https://sv4.data-stream.top/502251dc0231d54bd32feda099a3228dcab7ebb452277bce1e24b7a973ab03c2/hls/tmc.m3u8"
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Fr0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        }
+ 
+    ]
+}
