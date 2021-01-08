@@ -243,45 +243,83 @@
             ]
         },
         {
-            "id": "UA",
-            "title": "",
-            "coverImageUrl": "",
+            "id": "UA29",
+            "title": "National Geographic Abudabi",
+            "coverImageUrl": "https://sites.google.com/site/nationalgeographicabudhabi1012/_/rsrc/1472871777004/home/20110508172024!Nat_geo_channel_abu_dhabi.png",
             "videoUrl": [
+                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8",
+                "https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
+                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
                 ""
             ]
         },
         {
-            "id": "UA",
-            "title": "",
-            "coverImageUrl": "",
+            "id": "UA30",
+            "title": "Al dafrah",
+            "coverImageUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEOVm3pNOqnuw/company-logo_200_200/0/1519892447059?e=2159024400&v=beta&t=y3N_rl4mqEM_26rPUepJ1rIHmXI43T-G6rHmMxB0txc",
             "videoUrl": [
+                "https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8?sd=10&rebase=on"
+            ]
+        },
+        {
+            "id": "UA31",
+            "title": "Al Aan",
+            "coverImageUrl": "https://wpcdn.alaan.tv/2020/09/28/20200928-1601289938009-original.png",
+            "videoUrl": [
+                "https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist_w351303079.m3u8",
+                "https://stream-07.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqAQZ-V8eaHVhmtljr3waXg)/dm/3/x74wje5/s/live-2.m3u8",
+                "https://stream-07.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqAQZ-V8eaHVhmtljr3waXg)/dm/3/x74wje5/s/live-1.m3u8",
                 ""
             ]
         },
         {
-            "id": "UA",
-            "title": "",
-            "coverImageUrl": "",
+            "id": "UA32",
+            "title": "YAS",
+            "coverImageUrl": "https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports-e1600094421460.png",
             "videoUrl": [
-                ""
+                "https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+                "https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8"
             ]
         },
         {
-            "id": "UA",
-            "title": "",
-            "coverImageUrl": "",
+            "id": "UA33",
+            "title": "Abu Dhabi sport",
+            "coverImageUrl": "https://i.pinimg.com/736x/08/45/7a/08457a632781e0527b5b705044c90654.jpg",
             "videoUrl": [
-                ""
+                "https://admdn1ta.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8",
+                "https://admdn1ta.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+                "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
             ]
         },
         {
-            "id": "UA",
-            "title": "",
-            "coverImageUrl": "",
+            "id": "UA34",
+            "title": "Abu Dhabi sport2",
+            "coverImageUrl": "https://1.bp.blogspot.com/-0XffAOUBdAE/XYTgSZO_8vI/AAAAAAAAI40/E0VpZT--bUkeTOEbZSdFEI16jaoLfU7mgCLcBGAsYHQ/s1600/abu-dhabi-sports-2.png",
             "videoUrl": [
-                ""
+                "https://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8",
+                "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+            ]
+        },
+        {
+            "id": "UA35",
+            "title": "Abu Dhabi sport3",
+            "coverImageUrl": "https://1.bp.blogspot.com/-PteJ6SvgH6M/XVy8Slpc3ZI/AAAAAAAACd0/Yl5DHisxfp0636ttZXV1eJ8PTGzXnKOkQCLcBGAs/s1600/%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D8%25A8%25D9%2588%25D8%25B8%25D8%25A8%25D9%258A%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D9%258A%25D8%25A9%2B3%2BAbu%2BDhabi%2BSport%2B3%2BLive.png",
+            "videoUrl": [
+                "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8",
+                "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+                "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
+            ]
+        },{
+            "id": "UA36",
+            "title": "Abu Dhabi sport4",
+            "coverImageUrl": "https://4.bp.blogspot.com/-LX0ni1nvWAM/Wcz4q_EN3yI/AAAAAAAABI4/jOQbw7lnaXUAw2_zNRIEKTzLhtmlPB1xACLcBGAs/s1600/%25D8%25A7%25D8%25A8%25D9%2588%2B%25D8%25B8%25D8%25A8%25D9%258A%2B4.png",
+            "videoUrl": [
+                "https://admdn4ta.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8",
+                "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+                "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
             ]
         }
+
 
     ]
 }
