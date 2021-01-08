@@ -5,7 +5,9 @@
             "title": "Al Aoula",
             "coverImageUrl": "http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png",
             "videoUrl": [
-                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=2-mp4a_130400_qad=1.m3u8",
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+                "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
             ]
         },
         {
@@ -13,14 +15,19 @@
             "title": "Arryadia",
             "coverImageUrl": "http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png",
             "videoUrl": [
-                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8",
+                "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
             ]
         },
         {
             "id": "Mr03",
             "title": "Attakafia",
             "coverImageUrl": "http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png",
-            "videoUrl": ["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"]
+            "videoUrl": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
+                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+            ]
         },
         {
             "id": "Mr04",
@@ -85,7 +92,7 @@
             "title": "télé Maroc",
             "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhBTc5pKS-ZH93po4M_G_gRmZRB-XiqswWgR4fwMQ=s900-c-k-c0x00ffffff-no-rj",
             "videoUrl": [
-                ""
+                "https://playback.akamaized.net/streams/27130247_8196478_lsiuq130ew5l5vo5f6v_1/media/27130247_8196478_lsiuq130ew5l5vo5f6v_1@2756000p.m3u8?dw=32&ts=1610121600&hdnts=exp=1610297998~acl=/streams/27130247_8196478_lsiuq130ew5l5vo5f6v_1/media*~hmac=80ba4c112bb30650721752467f1fbd80830b8b9a5e065d2628095acfe7b4252c"
             ]
         }
 
