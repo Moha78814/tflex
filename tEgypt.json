@@ -1,0 +1,206 @@
+{
+    "videos": [
+        {
+            "id": "Eg01",
+            "title": "Cinema",
+            "coverImageUrl": "https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",
+            "videoUrl": [
+                "https://rotana.hibridmedia.com/rotana/cinema_dabr/rotana/cinema_720p/chunks.m3u8",
+                "https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Eg02",
+            "title": "Classic",
+            "coverImageUrl": "https://rotana.net/assets/themes/TriTheme-new/images/channels/classic.png",
+            "videoUrl": [
+                "https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_720p/chunks.m3u8"
+            ]
+        },
+        {
+            "id": "Eg03",
+            "title": "Nile Cinema",
+            "coverImageUrl": "",
+            "videoUrl": [
+                "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8"
+            ]
+        },
+        {
+            "id": "Eg04",
+            "title": "Nile Comedy",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg05",
+            "title": "Nile Life",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg06",
+            "title": "Nile Drama",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg07",
+            "title": "Nile Sport",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg08",
+            "title": "Nile Family",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg09",
+            "title": "Nile Culture",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg10",
+            "title": "En Nahar",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Ennahar_TV_%28logo_actuel%29.svg/1200px-Ennahar_TV_%28logo_actuel%29.svg.png",
+            "videoUrl": [
+                "http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8"
+            ]
+        },
+        {
+            "id": "Eg11",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        },
+        {
+            "id": "Eg0",
+            "title": "",
+            "coverImageUrl": "",
+            "videoUrl": [
+                ""
+            ]
+        }
+
+    ]
+}
