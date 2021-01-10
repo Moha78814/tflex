@@ -5,7 +5,9 @@
             "title": "24h",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
             "videoUrl": [
-                "https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8"
+                "https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8",
+                "https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
+                "https://rtvelivestream.akamaized.net/24h_dvr.m3u8"
                 ]
         },
         {
@@ -15,7 +17,8 @@
             "videoUrl": [
                 "https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8",
                 "https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8",
-                "https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8?sd=10&rebase=on"
+                "https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8?sd=10&rebase=on",
+                "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8"
                 ]
         },
         {
@@ -39,7 +42,9 @@
             "id": "Sp05",
             "title": "Cuatro",
             "coverImageUrl": "https://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg",
-            "videoUrl": ["https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/k20wk5j.m3u8?s=C4aSkT-Rp1g-NPJ0WNFDWg&e=1609291935"
+            "videoUrl": [
+                "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c",
+                "https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/k20wk5j.m3u8?s=C4aSkT-Rp1g-NPJ0WNFDWg&e=1609291935"
                 ]
         },
         {
@@ -49,9 +54,6 @@
             "videoUrl": ["https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/nhdi7t9.m3u8?s=DQXObOSopnpXFIqOlQikUw&e=1609293831"
                 ]
         },
-        
-
-
         {
             "id": "Sp07",
             "title": "Telemadrid",
@@ -64,7 +66,9 @@
             "id": "Sp08",
             "title": "Trece",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png",
-            "videoUrl": ["https://live-edge-mad-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8"
+            "videoUrl": [
+                "https://live-edge-mad-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8",
+                "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
                 ]
         },
         {
@@ -78,18 +82,114 @@
         },
         {
             "id": "Sp10",
-            "title": "Los Simpson",
-            "coverImageUrl": "https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s32simp.jpg",
+            "title": "25Tv",
+            "coverImageUrl": "https://www.lazonamedia.com/imgsop/25TV.jpg",
             "videoUrl": [
-                "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1609985005/ei/jRf2X6qYMv-PxN8Picu2wAM/ip/196.65.241.243/id/FxqSwrnV3eg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgc_l6_TjtgULSsGy2Ra4sb1wlmISJnIEEwHzocvXS_f0CIQDhJ5Y6Gbilvq1sOUIYZYAL8xeaA7xq64TIU8Iab81-JA%3D%3D/file/index.m3u8"
-                ,"https://c30.vidlox.me/hls/oudvgxwp6ztk2yixv4n6uajqiazu4c5u2llbse67qqgd67pvscbp3broohwq/seg-12-v1-a1.ts",
-                "https://v2.4animu.me/Kimi-to-Boku-no-Saigo-no-Senjou-Arui-wa-Sekai-ga-Hajimaru-Seisen/Kimi-to-Boku-no-Saigo-no-Senjou-Arui-wa-Sekai-ga-Hajimaru-Seisen-Episode-12-1080p.mp4"
-                ,"https://streamtape.com/e/4RRaQXGr48CKPY1/375_-_12.mp4","https://streamtape.com/e/K7o9mMdgZ6s00lo/84_-_01.mp4",
-                "https://streamtape.com/e/OWArxpzqkpuZV03/378_-_04.mp4"
-            ]
+                "https://cdnliveb.shooowit.net/25televisiolive/smil:channel1.smil/chunklist_b1500000.m3u8"
+                ]
         },
         {
-            "id": "Sp0",
+            "id": "Sp11",
+            "title": "RT es",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/langfr-180px-Russia-today-logo.svg.png",
+            "videoUrl": [
+                "https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8"
+                ]
+        },
+        {
+            "id": "Sp12",
+            "title": "mtmad",
+            "coverImageUrl": "https://www.neeo.es/wp-content/uploads/2016/12/logo-mtmad.jpg",
+            "videoUrl": [
+                "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8"
+                ]
+        },
+        {
+            "id": "Sp13",
+            "title": "Canal 33",
+            "coverImageUrl": "https://live-tv-channels.org/pt-data/uploads/logo/es-canal-33-madrid-3086.jpg",
+            "videoUrl": [
+                "https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w1441114308.m3u8",
+                "https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8"
+                ]
+        },
+        {
+            "id": "Sp14",
+            "title": "telemax",
+            "coverImageUrl": "https://live-tv-channels.org/pt-data/uploads/logo/ar-tlx-telemax.jpg",
+            "videoUrl": [
+                "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1676710468_b364000_sleng.m3u8"
+                ]
+        },
+        {
+            "id": "Sp15",
+            "title": "7Murcia",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/7TVRM.png/150px-7TVRM.png",
+            "videoUrl": [
+                "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8",
+                "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8"
+                ]
+        },
+        {
+            "id": "Sp16",
+            "title": "TVG Galicia",
+            "coverImageUrl": "http://www.centraltv.fr/wp-content/uploads/galicia-tv_logo.jpg",
+            "videoUrl": [
+                "http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8",
+                "http://europa-crtvg.flumotion.com/playlist.m3u8"
+                
+                ]
+        },
+        {
+            "id": "Sp17",
+            "title": "Alcarria TV",
+            "coverImageUrl": "https://i.imgur.com/pzJAYan.png",
+            "videoUrl": [
+                "http://217.182.77.27/live/alcarriatv-livestream.m3u8"
+                ]
+        },
+        {
+            "id": "Sp18",
+            "title": "Aragón TV",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png",
+            "videoUrl": [
+                "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
+                ]
+        },
+        {
+            "id": "Sp19",
+            "title": "Canal 4",
+            "coverImageUrl": "https://i.imgur.com/gyGKUcL.png",
+            "videoUrl": [
+                "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
+                ]
+        },
+        {
+            "id": "Sp20",
+            "title": "Canal d",
+            "coverImageUrl": "https://i.imgur.com/aoyHRgJ.jpg",
+            "videoUrl": [
+                "https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8"
+                ]
+        },
+        {
+            "id": "Sp21",
+            "title": "Canal malaga",
+            "coverImageUrl": "https://i.imgur.com/BXmmroM.jpg",
+            "videoUrl": [
+                "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+                ]
+        },
+        {
+            "id": "Sp22",
+            "title": "Distrito",
+            "coverImageUrl": "https://i.imgur.com/V04dJhe.jpg",
+            "videoUrl": [
+                "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8"
+                ]
+        },
+        {
+            "id": "Sp1",
             "title": "",
             "coverImageUrl": "",
             "videoUrl": [
@@ -97,7 +197,7 @@
                 ]
         },
         {
-            "id": "Sp0",
+            "id": "Sp1",
             "title": "",
             "coverImageUrl": "",
             "videoUrl": [
@@ -105,47 +205,7 @@
                 ]
         },
         {
-            "id": "Sp0",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-                ]
-        },
-        {
-            "id": "Sp0",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-                ]
-        },
-        {
-            "id": "Sp0",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-                ]
-        },
-        {
-            "id": "Sp0",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-                ]
-        },
-        {
-            "id": "Sp0",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-                ]
-        },
-        {
-            "id": "Sp0",
+            "id": "Sp1",
             "title": "",
             "coverImageUrl": "",
             "videoUrl": [
