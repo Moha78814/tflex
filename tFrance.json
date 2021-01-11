@@ -61,7 +61,8 @@
             "title": "BFM Paris",
             "coverImageUrl": "https://i.imgur.com/4buTOS3.png",
             "videoUrl": [
-                "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8"
+                "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8",
+                "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8"
             ]
         },
         {
@@ -100,8 +101,8 @@
         },
         {
             "id": "Fr12",
-            "title": "https://i.imgur.com/ZEA3az8.png",
-            "coverImageUrl": "Grand Lille",
+            "title": "Grand Lille",
+            "coverImageUrl": "https://i.imgur.com/ZEA3az8.png",
             "videoUrl": [
                 "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8"
             ]
@@ -120,7 +121,8 @@
             "title": "MyComedy",
             "coverImageUrl": "https://i.imgur.com/EgSC2QT.jpg",
             "videoUrl": [
-                "https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8"
+                "https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8",
+                "http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8"
             ]
         },
         {
@@ -128,7 +130,8 @@
             "title": "Tv5 Style",
             "coverImageUrl": "https://i.imgur.com/FRP03WJ.jpg",
             "videoUrl": [
-                "https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8"
+                "https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8",
+                "https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8"
             ]
         },
         {
@@ -169,6 +172,39 @@
         },
         {
             "id": "Fr20",
+            "title": "TMC",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1200px-TMC_logo_2016.svg.png",
+            "videoUrl": [
+                "https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8"
+            ]
+        },
+        {
+            "id": "Fr21",
+            "title": "BFM Tv",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png",
+            "videoUrl": [
+                "https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8",
+                "https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr22",
+            "title": "LCI",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png",
+            "videoUrl": [
+                "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8"
+            ]
+        },
+        {
+            "id": "Fr23",
+            "title": "Rouge Tv",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png",
+            "videoUrl": [
+                "http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr2",
             "title": "",
             "coverImageUrl": "",
             "videoUrl": [
@@ -176,23 +212,7 @@
             ]
         },
         {
-            "id": "Fr0",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-            ]
-        },
-        {
-            "id": "Fr0",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-            ]
-        },
-        {
-            "id": "Fr0",
+            "id": "Fr2",
             "title": "",
             "coverImageUrl": "",
             "videoUrl": [
