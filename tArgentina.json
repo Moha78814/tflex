@@ -1,0 +1,165 @@
+{
+    "videos": [
+        {
+            "id": "Ar01",
+            "title": "13Max",
+            "coverImageUrl": "https://i.imgur.com/VuvGm3s.png",
+            "videoUrl": [
+                "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar02",
+            "title": "24/7 Canal de Noticias",
+            "coverImageUrl": "https://i.imgur.com/6miysb8.png",
+            "videoUrl": [
+                "http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar03",
+            "title": "5RTV Santa Fe",
+            "coverImageUrl": "https://i.imgur.com/wCQJuaU.jpg",
+            "videoUrl": [
+                "https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8",
+                "https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8"
+            ]
+        },
+        {
+            "id": "Ar04",
+            "title": "9 MULTIVISION HD",
+            "coverImageUrl": "https://i.imgur.com/sZ1yE4e.png",
+            "videoUrl": [
+                "http://panel.dattalive.com:1935/8250/8250/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar05",
+            "title": "Argentinísima Satelital",
+            "coverImageUrl": "https://i.imgur.com/Jo7p7yZ.png",
+            "videoUrl": [
+                "http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar06",
+            "title": "Canal 10 Rio Negro",
+            "coverImageUrl": "https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png",
+            "videoUrl": [
+                "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar07",
+            "title": "Canal 26",
+            "coverImageUrl": "https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png",
+            "videoUrl": [
+                "http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv",
+                "http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8",
+                "http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8",
+                "http://200.115.193.177/live/26hd-720/playlist.m3u8",
+                "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar08",
+            "title": "Canal 4 San Juan",
+            "coverImageUrl": "http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg",
+            "videoUrl": [
+                "http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar09",
+            "title": "Canal 9 Comodoro Rivadavia",
+            "coverImageUrl": "http://i.imgur.com/nD9TVZg.jpg",
+            "videoUrl": [
+                "https://live.canalnueve.tv/canal.m3u8"
+            ]
+        },
+        {
+            "id": "Ar10",
+            "title": "Canal Acequia",
+            "coverImageUrl": "https://i.imgur.com/OTyIxNK.jpg",
+            "videoUrl": [
+                "http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8"
+            ]
+        },
+        {
+            "id": "Ar11",
+            "title": "CANAL PROVINCIAL SAN MIGUEL",
+            "coverImageUrl": "https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg",
+            "videoUrl": [
+                "http://www.trimi.com.ar/provincial/streaming/mystream.m3u8"
+            ]
+        },
+        {
+            "id": "Ar12",
+            "title": "Chacra TV",
+            "coverImageUrl": "https://i.imgur.com/mZlUGBf.jpg",
+            "videoUrl": [
+                "http://s8.stweb.tv:1935/chacra/live/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar13",
+            "title": "Ciudad TV Chaco",
+            "coverImageUrl": "https://i.imgur.com/WxzqqFQ.jpg",
+            "videoUrl": [
+                "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar14",
+            "title": "CPEtv",
+            "coverImageUrl": "https://i.imgur.com/75UgF.png",
+            "videoUrl": [
+                "https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8"
+            ]
+        },
+        {
+            "id": "Ar15",
+            "title": "El Garage",
+            "coverImageUrl": "https://i.imgur.com/OgVCgbw.jpg",
+            "videoUrl": [
+                "http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8",
+                "http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8"
+            ]
+        },
+        {
+            "id": "Ar16",
+            "title": "Telemax",
+            "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFTZVS00fRQhhbeWgwDDiRDvZ-1QTyR06W8w&usqp=CAU",
+            "videoUrl": [
+                "https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8",
+                "https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8",
+                "https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8"
+            ]
+        },
+        {
+            "id": "Ar17",
+            "title": "TeleNord Corrientes",
+            "coverImageUrl": "https://i.imgur.com/byxXHzq.png",
+            "videoUrl": [
+                "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar18",
+            "title": "Maná Córdoba",
+            "coverImageUrl": "https://i.imgur.com/GVI8kkp.jpg",
+            "videoUrl": [
+                "http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
+                "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ar19",
+            "title": "Télam 4",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Telam_logo.png",
+            "videoUrl": [
+                "http://184.154.28.210:1935/canal4/canal4/playlist.m3u8"
+            ]
+        }
+    ]
+}
