@@ -8,7 +8,8 @@
                 "http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8",
                 "http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8",
                 "http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
-                "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"
+                "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+                "https://sv2.data-stream.top/9787250d15708b706c4237ddabc08d70af8da44b2a4fa416fc46931c0b4c6fe8/hls/sangoku.m3u8"
             ]
         },
         {
