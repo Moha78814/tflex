@@ -8,8 +8,7 @@
                 "https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8",
                 "https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
                 "https://rtvelivestream.akamaized.net/24h_dvr.m3u8",
-                "https://www581.ff-02.com/token=qkJGWwEpSq7IivAsRuEiLw/1612139644/105.159.0.0/146/b/ad/5a21be553bcffd3d473fe186819a4adb-480p.mp4",
-                "https://www1883.ff-04.com/token=ljmdvCVTL4aNuyn8ZG-CRg/1612140133/105.159.0.0/141/8/7f/2d2ac46ce9c1f003897c1c25bea077f8-480p.mp4"
+                "https://www27.uptostream.com/3e2ldcv51b1/360/0/video.mp4"
                 ]
         },
         {
@@ -188,30 +187,6 @@
             "coverImageUrl": "https://i.imgur.com/V04dJhe.jpg",
             "videoUrl": [
                 "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8"
-                ]
-        },
-        {
-            "id": "Sp1",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-                ]
-        },
-        {
-            "id": "Sp1",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
-                ]
-        },
-        {
-            "id": "Sp1",
-            "title": "",
-            "coverImageUrl": "",
-            "videoUrl": [
-                ""
                 ]
         }
 
