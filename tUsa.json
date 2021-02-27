@@ -202,6 +202,98 @@
             "videoUrl": [
                 "https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8"
                 ]
+        },
+        {
+            "id": "Us25",
+            "title": "&privé",
+            "coverImageUrl": "https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830",
+            "videoUrl": [
+                "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
+                ]
+        },
+        {
+            "id": "Us26",
+            "title": "Film Detective",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/The_Film_Detective_logo.png",
+            "videoUrl": [
+                "https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8",
+                "https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8"
+                ]
+        },
+        {
+            "id": "Us27",
+            "title": "Cinemax East",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png",
+            "videoUrl": [
+                "https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8"
+                ]
+        },
+        {
+            "id": "Us28",
+            "title": "Cinemax West",
+            "coverImageUrl": "https://www.pesdish.com/wp-content/uploads/2016/07/max-w.png",
+            "videoUrl": [
+                "https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8"
+                ]
+        },
+        {
+            "id": "Us29",
+            "title": "Epix",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1200px-Epix_Logo_2019.svg.png",
+            "videoUrl": [
+                "https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8"
+                ]
+        },
+        {
+            "id": "Us30",
+            "title": "Epix2",
+            "coverImageUrl": "https://cdn.tvpassport.com/image/station/240x135/epix2019_2.png",
+            "videoUrl": [
+                "https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8"
+                ]
+        },
+        {
+            "id": "Us31",
+            "title": "filmrise Classic",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",
+            "videoUrl": [
+                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8"
+                ]
+        },
+        {
+            "id": "Us32",
+            "title": "Filmrise Crime",
+            "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng0U0n2fj7n48JXLAiks-hO76Wk72cGCOxrG2TP6g=s900-c-k-c0x00ffffff-no-rj",
+            "videoUrl": [
+                "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8",
+                "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8"
+                ]
+        },
+        {
+            "id": "Us33",
+            "title": "Filmrise Movie",
+            "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhGwyi2g7iR6PzgBqQ98Jo5UknEJqshZOjWW4oD=s900-c-k-c0x00ffffff-no-rj",
+            "videoUrl": [
+                "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8"
+                ]
+        },
+        {
+            "id": "Us34",
+            "title": "HBO",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",
+            "videoUrl": [
+                "https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8",
+                "https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8"
+                ]
+        },
+        {
+            "id": "Us35",
+            "title": "Movie Kingdom",
+            "coverImageUrl": "http://moviekingdom.net/wp-content/uploads/2020/06/logo.png",
+            "videoUrl": [
+                "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
+                "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8"
+                ]
         }
 
     ]
