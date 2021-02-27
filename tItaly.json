@@ -1,0 +1,354 @@
+{
+    "videos": [
+        {
+            "id": "It01",
+            "title": "51 Radio",
+            "coverImageUrl": "http://i65.tinypic.com/wmf409.jpg",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8",
+                "http://wms.shared.streamshow.it/canale51/canale51/chunklist_w1620988968.m3u8"
+            ]
+        },
+        {
+            "id": "It02",
+            "title": "AB Channel",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/it/d/d4/Ab_channel_i_logo.png",
+            "videoUrl": [
+                "https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It03",
+            "title": "Aurora Arte",
+            "coverImageUrl": "https://i.imgur.com/Y1Yq3iV.png",
+            "videoUrl": [
+                "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "It04",
+            "title": "Azzurra",
+            "coverImageUrl": "http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png",
+            "videoUrl": [
+                "https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8",
+                "https://sb.top-ix.org/avtvlive/streaming/chunklist_w310826991.m3u8"
+            ]
+        },
+        {
+            "id": "It05",
+            "title": "CafèTV24",
+            "coverImageUrl": "http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png",
+            "videoUrl": [
+                "http://srv3.meway.tv:1957/cafe/live/playlist.m3u8",
+                "http://srv3.meway.tv:1957/cafe/live/chunklist_w1367259706.m3u8"
+            ]
+        },
+        {
+            "id": "It06",
+            "title": "Canale 10",
+            "coverImageUrl": "https://canaledieci.it/wp-content/uploads/2020/12/canaledieci-logo-blue.png",
+            "videoUrl": [
+                "http://37.187.142.147:1935/ch10live/high.stream/live.m3u8",
+                "http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8",
+                "http://37.187.142.147:1935/ch10live/high.stream/chunklist_w1297029259.m3u8"
+            ]
+        },
+        {
+            "id": "It07",
+            "title": "Canale 2",
+            "coverImageUrl": "https://i.imgur.com/uh4R5Ih.png",
+            "videoUrl": [
+                "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8",
+                "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w978896525.m3u8"
+            ]
+        },
+        {
+            "id": "It08",
+            "title": "Canale 7",
+            "coverImageUrl": "https://canale7.tv/assets/front/img/fb_logo.jpg",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
+                "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8",
+                "http://wms.shared.streamshow.it:1935/canale7/canale7/chunklist_w120295881.m3u8"
+            ]
+        },
+        {
+            "id": "It09",
+            "title": "Carina",
+            "coverImageUrl": "http://www.altrostudio.tv/images/portfolio/carinatv.jpg",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8",
+                "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8",
+                "http://wms.shared.streamshow.it/carinatv/carinatv/chunklist_w1214172385.m3u8"
+            ]
+        },
+        {
+            "id": "It10",
+            "title": "Company",
+            "coverImageUrl": "https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png",
+            "videoUrl": [
+                "http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8",
+                "http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/chunklist_w1512179141_b1428000_slita.m3u8",
+                "http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It11",
+            "title": "Deejay",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/DeeJay_TV.svg/1200px-DeeJay_TV.svg.png",
+            "videoUrl": [
+                "https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8",
+                "https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on"
+            ]
+        },
+        {
+            "id": "It12",
+            "title": "Esperia",
+            "coverImageUrl": "https://www.esperia.tv/file/2018/10/EsperiaTVwhite.png",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8",
+                "http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1525366215.m3u8",
+                "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It13",
+            "title": "ETV MARCHE",
+            "coverImageUrl": "http://www.etvmarche.it/wp-content/uploads/2017/07/logo_etv.png",
+            "videoUrl": [
+                "http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8",
+                "http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8",
+                "http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8"
+            ]
+        },
+        {
+            "id": "It14",
+            "title": "FM Italia",
+            "coverImageUrl": "https://i.imgur.com/p70i4x0.png",
+            "videoUrl": [
+                "http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8",
+                "http://flash8.streaming.xdevel.com/fmitalia/fmitalia/chunklist_w1578802168.m3u8"
+            ]
+        },
+        {
+            "id": "It15",
+            "title": "Gold Roma",
+            "coverImageUrl": "https://i.imgur.com/8Nba42X.png",
+            "videoUrl": [
+                "http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8",
+                "http://151.0.207.99:1935/GoldTV/GOLD_17/chunklist_w1984872078.m3u8"
+            ]
+        },
+        {
+            "id": "It16",
+            "title": "History LAB",
+            "coverImageUrl": "http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png",
+            "videoUrl": [
+                "http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8",
+                "http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV",
+                "http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8",
+                "http://wma10.fluidstream.net/HistoryLab/livestream/chunklist_w958318889.m3u8"
+            ]
+        },
+        {
+            "id": "It17",
+            "title": "Icaro",
+            "coverImageUrl": "https://i.imgur.com/nWBWzNy.png",
+            "videoUrl": [
+                "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8",
+                "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/chunklist_w2139065849.m3u8"
+            ]
+        },
+        {
+            "id": "It18",
+            "title": "Italia 2",
+            "coverImageUrl": "https://i.imgur.com/TDSgG28.png",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8",
+                "http://wms.shared.streamshow.it/italia2/mp4:italia2/chunklist_w283452880.m3u8"
+            ]
+        },
+        {
+            "id": "It19",
+            "title": "La Tr3",
+            "coverImageUrl": "https://i.imgur.com/IFPpG7X.png",
+            "videoUrl": [
+                "https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It20",
+            "title": "Lac",
+            "coverImageUrl": "https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png",
+            "videoUrl": [
+                "https://StreamCdnC3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It21",
+            "title": "MotorTrend",
+            "coverImageUrl": "http://www.motortrendtv.it/wp-content/themes/mt-landing-wp/img/logo.png",
+            "videoUrl": [
+                "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8"
+            ]
+        },
+        {
+            "id": "It22",
+            "title": "Nove",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/K2_new_logo.svg/150px-K2_new_logo.svg.png",
+            "videoUrl": [
+                "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8"
+            ]
+        },
+        {
+            "id": "It23",
+            "title": "Orler",
+            "coverImageUrl": "https://i.imgur.com/Ia7iULa.png",
+            "videoUrl": [
+                "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+                "https://w1.mediastreaming.it/orlertv/livestream/chunklist_w1241729955.m3u8"
+            ]
+        },
+        {
+            "id": "It24",
+            "title": "Pescara",
+            "coverImageUrl": "https://i.imgur.com/PHmQHas.png",
+            "videoUrl": [
+                "http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "It25",
+            "title": "Rai 3",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",
+            "videoUrl": [
+                "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w337621153.m3u8",
+                "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It26",
+            "title": "Sophia",
+            "coverImageUrl": "https://i.imgur.com/RPXusvS.png",
+            "videoUrl": [
+                "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8",
+                "https://www.onairport.live/sophiatv-it-live/livestream/chunklist_w1982638923.m3u8"
+            ]
+        },
+        {
+            "id": "It27",
+            "title": "SuperTv",
+            "coverImageUrl": "https://www.bresciasat.it/assets/front/img/logo3.png",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
+                "http://wms.shared.streamshow.it:1935/supertv/supertv/chunklist_w1585595901.m3u8"
+            ]
+        },
+        {
+            "id": "It28",
+            "title": "TELE MONTE NEVE",
+            "coverImageUrl": "https://www.coolstreaming.us/img/ch/image75605174387.jpg",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8",
+                "http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/chunklist_w727918598.m3u8"
+            ]
+        },
+        {
+            "id": "It29",
+            "title": "TeleBoario",
+            "coverImageUrl": "https://massimoemanuelli.files.wordpress.com/2017/10/teleboario2.jpg",
+            "videoUrl": [
+                "http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8",
+                "http://flash7.streaming.xdevel.com/teleboario/teleboario/chunklist_w773728877.m3u8"
+            ]
+        },
+        {
+            "id": "It30",
+            "title": "Telechiara",
+            "coverImageUrl": "https://telechiara.gruppovideomedia.it/img/logo.png",
+            "videoUrl": [
+                "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8",
+                "http://fms.tvavicenza.it:1935/telechiara/diretta/chunklist_w1215640808.m3u8"
+            ]
+        },
+        {
+            "id": "It31",
+            "title": "TeleColor",
+            "coverImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/0d/0e/0e/0d0e0e8e-929f-bb50-b701-dbab77ef404b/source/512x512bb.jpg",
+            "videoUrl": [
+                "https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8",
+                "https://streamcdng1.mainstreaming.tv/cdn/live/324149/hlbAWtl/chunklist_b1728000.m3u8"
+            ]
+        },
+        {
+            "id": "It32",
+            "title": "Telemia",
+            "coverImageUrl": "http://1.bp.blogspot.com/-8gAN3pOqt7M/UK8We1rH1yI/AAAAAAAADjU/bya6H2ZbcJk/s1600/logo-telemia.png",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8",
+                "http://wms.shared.streamshow.it/telemia/telemia/chunklist_w590234524.m3u8"
+            ]
+        },
+        {
+            "id": "It33",
+            "title": "TeleMonteve",
+            "coverImageUrl": "https://i.imgur.com/Q7Gj1rG.jpg",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8",
+                "http://wms.shared.streamshow.it/telemonteneve/telemonteneve/chunklist_w154096967.m3u8"
+            ]
+        },
+        {
+            "id": "It34",
+            "title": "TeleNordest",
+            "coverImageUrl": "https://i.imgur.com/Woq6TJo.png",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/telenord/telenord/playlist.m3u8",
+                "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It35",
+            "title": "TeleQuattro",
+            "coverImageUrl": "http://www.saladellamemoriaheysel.it/IMMAGINI/Logo_Tele_Quattro.png",
+            "videoUrl": [
+                "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8",
+                "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1964710724.m3u8"
+            ]
+        },
+        {
+            "id": "It36",
+            "title": "",
+            "coverImageUrl": "https://www.pubblisole.it/Content/img/logo_teleromagna.png",
+            "videoUrl": [
+                "http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "It37",
+            "title": "Rai news 24",
+            "coverImageUrl": "data:image/png;base64,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",
+            "videoUrl": [
+                "http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "It38",
+            "title": "Cartoonito",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png",
+            "videoUrl": [
+                "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/stream05/streamPlaylist.m3u8"
+            ]
+        },
+        {
+            "id": "It39",
+            "title": "Boing",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png",
+            "videoUrl": [
+                "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/stream05/streamPlaylist.m3u8"
+            ]
+        }
+
+
+    ]
+}
