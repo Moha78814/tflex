@@ -7,11 +7,7 @@
             "videoUrl": [
                 "https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8",
                 "https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
-                "https://rtvelivestream.akamaized.net/24h_dvr.m3u8",
-                "https://yyzhbhknht.mstreamcdn.com/c/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjE5Ni42NS4yMzYuNTEiLCI5MjQ0MmRsbDVtNzEiLCJuIiwyLCI5OTQ0OWEwMzIxNjk4YzliYzJiMzdlYzdlYzgwZGQ4MyJdLCJleHAiOjE2MTMzNzA4ODJ9.p7KUwnI5tE6Wkus1nhgXQf-o53PFfQ3reNbiVctwXOg.mp4",
-                "https://streamtape.com/e/Zxa8WVgzGQF7ML/Goblin.Slayer.Goblins.Crown.2020.french.1080p.WEB.x264-AMB3R_..TV_French-Stream.lol.mp4",
-                "https://868418908.tapecontent.net/radosgw/Zxa8WVgzGQF7ML/5xS6-Mu43g7yHDlxvwEC7dJ9P-jZmF_IBELE1B6qPdS78YsuOlG8W1T1uMlBs2h0ZFCwV1u9TFMV4VrLoLPhHHt4TuVp8643mjurGFEOXYYUsg7rbYBWjZvWMtEGTlK_m4X2JVzBiMwqLo3WD8n7Q77aFpaT5P30uWpwr_yv_bf07Zj9Orb-Bz6Zlgx1YWzgW5NFOt53hNTVw_zve4QyUPrQKKJYU_RjUiAijf0NG-3rCOhjfc2WLPvrNQeDh-VfvvDxLhdHYZLOm3OeRD_1YrQAq6Qak0txi6dea_mVjX2GtybiEDc-uS04YBzRRu3kgpSno_Nk-j8zIf5ey9ETwSmzu6p1Ul-V11J7wg/Goblin.Slayer.Goblins.Crown.2020.french.1080p.WEB.x264-AMB3R_..TV++French-Stream.lol.mp4?stream=1"
-                
+                "https://rtvelivestream.akamaized.net/24h_dvr.m3u8"
                 ]
         },
         {
@@ -190,6 +186,22 @@
             "coverImageUrl": "https://i.imgur.com/V04dJhe.jpg",
             "videoUrl": [
                 "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8"
+                ]
+        },
+        {
+            "id": "Sp23",
+            "title": "El Toro Tv",
+            "coverImageUrl": "https://www.madrid-barcelona.com/wp-content/uploads/2012/03/02/4f5129b205f8c.jpg",
+            "videoUrl": [
+                "https://live1-eltorotv.flumotion.com/chunks.m3u8"
+                ]
+        },
+        {
+            "id": "Sp24",
+            "title": "Pequeradio TV",
+            "coverImageUrl": "https://lh3.googleusercontent.com/proxy/L7oUhfXPAgwWvIrxweXF4mwxlVpb0WiaU_YOyoiqeynmu48tj3FSYsgLbxtvczrST9pnQGmHyEckmjeuAJ3xe4sHXSsmch5L5YtG-wyR9etd93cIeGZ0fcMpv1eKdCknA0hdQYqFmwE_",
+            "videoUrl": [
+                "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
                 ]
         }
 
