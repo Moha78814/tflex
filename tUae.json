@@ -256,7 +256,7 @@
                 "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8",
                 "https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
                 "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
-                ""
+                "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"
             ]
         },
         {
@@ -323,6 +323,31 @@
                 "https://admdn4ta.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8",
                 "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
                 "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
+            ]
+        },
+        {
+            "id": "UA37",
+            "title": "Boomerang",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",
+            "videoUrl": [
+                "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
+            ]
+        },
+        {
+            "id": "UA38",
+            "title": "OMG",
+            "coverImageUrl": "https://image.winudf.com/v2/image/Y29tLm9tZy5vbWdyYWRpb19pY29uXzE1MjQwMjgxNDNfMDY2/icon.png?w=170&fakeurl=1",
+            "videoUrl": [
+                "http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8",
+                "http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist_w767636567.m3u8"
+            ]
+        },
+        {
+            "id": "UA39",
+            "title": "TRT Arabi",
+            "coverImageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2019/01/07/thumbs_b_c_e8de2bce28a554404199c6143faaf46a.jpg",
+            "videoUrl": [
+                "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
             ]
         }
 
