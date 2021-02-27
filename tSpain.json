@@ -203,6 +203,14 @@
             "videoUrl": [
                 "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
                 ]
+        },
+        {
+            "id": "Sp25",
+            "title": "13 Max",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png",
+            "videoUrl": [
+                "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8"
+                ]
         }
 
     ]
