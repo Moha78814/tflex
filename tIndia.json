@@ -1,0 +1,172 @@
+{
+    "videos": [
+        {
+            "id": "In01",
+            "title": "3Tamil",
+            "coverImageUrl": "https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png",
+            "videoUrl": [
+                "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+                ]
+        },
+        {
+            "id": "In02",
+            "title": "Aaj Tak",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/hi/thumb/0/0d/%E0%A4%86%E0%A4%9C_%E0%A4%A4%E0%A4%95_%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B.svg/1200px-%E0%A4%86%E0%A4%9C_%E0%A4%A4%E0%A4%95_%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B.svg.png",
+            "videoUrl": [
+                "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+                "https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8"
+                ]
+        },
+        {
+            "id": "In03",
+            "title": "Athavan",
+            "coverImageUrl": "https://live-tv-channels.org/pt-data/uploads/logo/uk-athavan-tv.jpg",
+            "videoUrl": [
+                "http://45.77.66.224:1935/athavantv/live/playlist.m3u8"
+                ]
+        },
+        {
+            "id": "In04",
+            "title": "ABP Ananda",
+            "coverImageUrl": "https://indiaeducationdiary.in/wp-content/uploads/2020/06/abp-ananda.png",
+            "videoUrl": [
+                "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8"
+                ]
+        },
+        {
+            "id": "In05",
+            "title": "ABP Asmita",
+            "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvATuM-HnJ6gn9t51Wm5aU11fqtnO10gffpZ53biLwKLd14TnXos2x2nGLoNeLsP82YM&usqp=CAU",
+            "videoUrl": [
+                "https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8",
+                "https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8"
+                ]
+        },
+        {
+            "id": "In06",
+            "title": "ABP Majha",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/ABP_Majha_Logo.png/160px-ABP_Majha_Logo.png",
+            "videoUrl": [
+                "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8"
+                ]
+        },
+        {
+            "id": "In07",
+            "title": "ABP News",
+            "coverImageUrl": "https://aniportalimages.s3.amazonaws.com/media/details/ABP_News_logo.jpg",
+            "videoUrl": [
+                "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+                "http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8"
+                ]
+        },
+        {
+            "id": "In08",
+            "title": "Amrita",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/1200px-Amrita_TV.svg.png",
+            "videoUrl": [
+                "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8"
+                ]
+        },
+        {
+            "id": "In09",
+            "title": "Anjan",
+            "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh7HwY6WlECuzxAXFPm_0Su9-6B9yjAGvzzK0HFpA=s900-c-k-c0x00ffffff-no-rj",
+            "videoUrl": [
+                "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"
+                ]
+        },
+        {
+            "id": "In10",
+            "title": "ABP",
+            "coverImageUrl": "https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2020/04/ABP-NEWS_6.jpg&w=620&h=350&zc=1&q=100",
+            "videoUrl": [
+                "https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8"
+                ]
+        },
+        {
+            "id": "In11",
+            "title": "Asianet News",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png",
+            "videoUrl": [
+                "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8"
+                ]
+        },
+        {
+            "id": "In12",
+            "title": "B4U",
+            "coverImageUrl": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/gckqewzgzxdmedgjocnw",
+            "videoUrl": [
+                "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+                "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8"
+                ]
+        },
+        {
+            "id": "In13",
+            "title": "BFLIX",
+            "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Pd1nVzqVNNcmjLkq3-B-daP2CtxN4xUarPWYDvTMHSn8xIUjIrlSvdy-_ANElT49CUI&usqp=CAU",
+            "videoUrl": [
+                "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"
+                ]
+        },
+        {
+            "id": "In14",
+            "title": "Bloomberg TV Asia",
+            "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxAsoj6Yrgw_r24mZDu-totcSimSPAhvgHQ&usqp=CAU",
+            "videoUrl": [
+                "https://www.bloomberg.com/media-manifest/streams/asia.m3u8",
+                "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8"
+                ]
+        },
+        {
+            "id": "In15",
+            "title": "Bollywood",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bollywood-tv_ro.png",
+            "videoUrl": [
+                "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"
+                ]
+        },
+        {
+            "id": "In16",
+            "title": "CNBC Awaaz",
+            "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj",
+            "videoUrl": [
+                "https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8",
+                "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8",
+                "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on"
+                ]
+        },
+        {
+            "id": "In17",
+            "title": "DD National",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dd_national.jpg/240px-Dd_national.jpg",
+            "videoUrl": [
+                "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"
+                ]
+        },
+        {
+            "id": "In18",
+            "title": "DD News",
+            "coverImageUrl": "data:image/png;base64,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",
+            "videoUrl": [
+                "http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_2_av-p.m3u8",
+                "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"
+                ]
+        },
+        {
+            "id": "In19",
+            "title": "India News",
+            "coverImageUrl": "data:image/jpeg;base64,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",
+            "videoUrl": [
+                "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"
+                ]
+        },
+        {
+            "id": "In20",
+            "title": "JAN",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jantvlogo3.png",
+            "videoUrl": [
+                "http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8"
+                ]
+        }
+    ]
+}
