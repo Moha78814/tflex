@@ -1,0 +1,46 @@
+{
+    "videos": [
+        {
+            "id": "Ca01",
+            "title": "Global Calgary",
+            "coverImageUrl": "https://i.imgur.com/ppMNSKT.png",
+            "videoUrl": [
+                "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8"
+            ]
+        },
+        {
+            "id": "Ca02",
+            "title": "ICI RDI",
+            "coverImageUrl": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png",
+            "videoUrl": [
+                "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+                "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_1100.m3u8"
+            ]
+        },
+        {
+            "id": "Ca03",
+            "title": "NTV Newfoundland",
+            "coverImageUrl": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png",
+            "videoUrl": [
+                "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ca04",
+            "title": "QVtv",
+            "coverImageUrl": "https://i.imgur.com/X9LBFzK.jpg",
+            "videoUrl": [
+                "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Ca05",
+            "title": "TSC",
+            "coverImageUrl": "https://i.imgur.com/FlJVD8a.png",
+            "videoUrl": [
+                "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+            ]
+        }
+
+    ]
+}
