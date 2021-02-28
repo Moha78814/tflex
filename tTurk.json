@@ -1,0 +1,287 @@
+{
+    "videos": [
+        {
+            "id": "Tu01",
+            "title": "Ada",
+            "coverImageUrl": "https://www.kibrispostasi.com/upload/news/a/ad/adatv_4a6aa292.jpg",
+            "videoUrl": [
+                "https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist.m3u8",
+                "https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu02",
+            "title": "Afyon Turk",
+            "coverImageUrl": "https://www.hdtvler.tv/media/images/tvlogo/afyonturktv-hdtvler-pseb.png",
+            "videoUrl": [
+                "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8",
+                "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist_w855890668.m3u8"
+            ]
+        },
+        {
+            "id": "Tu03",
+            "title": "Ahi",
+            "coverImageUrl": "https://live-tv-channels.org/pt-data/uploads/logo/ahi_tv_tr.png",
+            "videoUrl": [
+                "http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu04",
+            "title": "Akit",
+            "coverImageUrl": "http://www.meibur.com/uploads/kanal/21577akit.png",
+            "videoUrl": [
+                "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+                "http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
+            ]
+        },
+        {
+            "id": "Tu05",
+            "title": "Al Zahra",
+            "coverImageUrl": "https://live-tv-channels.org/pt-data/uploads/logo/ir-al-zahra-tv-4204.jpg",
+            "videoUrl": [
+                "https://live.al-zahratv.com/live/playlist.m3u8",
+                "https://live.al-zahratv.com/live/playlist1/index.m3u8",
+                "https://live.al-zahratv.com/live/playlist2/index.m3u8"
+            ]
+        },
+        {
+            "id": "Tu06",
+            "title": "Altas",
+            "coverImageUrl": "https://www.ordugazete.com/images/haberler/2019/08/altas-tv-ye-buyuk-odul.jpg",
+            "videoUrl": [
+                "http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu07",
+            "title": "Besiktas",
+            "coverImageUrl": "",
+            "videoUrl": [
+                "https://s01.vpis.io/besiktas/besiktas.m3u8"
+            ]
+        },
+        {
+            "id": "Tu08",
+            "title": "Bloomberg HT",
+            "coverImageUrl": "data:image/jpeg;base64,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t7xrxajl2LeycbvtYz08JNYxATF0jZitTekxIDqVJHMAzLiBVX/Ba2/9+r/0/wBJYGruh1tLdKCsWVBgE88TaYnsD8OuQR3ysrrY9bO7Oa9UbxJPFevTlLPjEDQaoatJYUTRpuzqWLZbGcnpwm7qJvKRyyCPnPpiebsCrauxi2JJ7erxJP4evpJvqnq8lhQFBHZ1DM2WxnLc+XlN5iCIHswNMaOS4ovRf3XUqe8Z6iZ88gRLU3Ueho81GRmdnwMvjIAzwGB1zJbiexA+FzS30ZScbwI+ciup+o1LR7u9Oo77/Pex49w8ZMIxAGQPW3ZvRvahrdo6VCB1yvDkccxJ4RBgV9qpsxt7Sotd3arUXiu9jdU/4sc8ywRAECBotbtXUv6HYO7Ku+rZXGcrnhx85+9V9ApY0FoIzMoJOW55OO7ym7nhEBiQrW3Z1a3zdoc06h5sv4vMSbTwiBU+jdjNBXBq1mdQc7oGM+ByOUtCxskootOmoVFGFA6CZAnsD85kKpbPqK3xvu0ffLl93I3cnpyziTYxiBo9adWqN9R7KqD3qwxvKfAzC1M1Qp6OV1R3ffIJ3sdM9w8ZKYxA9nk9iB5iMT2IHmJ7EQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQP//Z",
+            "videoUrl": [
+                "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8"
+            ]
+        },
+        {
+            "id": "Tu09",
+            "title": "BRT2",
+            "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YvouhOgFa6lsEoJzswlr8aJv6FerE0tGTQ&usqp=CAU",
+            "videoUrl": [
+                "http://wms.brtk.net:1935/live/brt2/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu10",
+            "title": "Bursa",
+            "coverImageUrl": "https://ewsat.com/img/BURSA.png",
+            "videoUrl": [
+                "https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu11",
+            "title": "Canli",
+            "coverImageUrl": "",
+            "videoUrl": [
+                "http://canbroadcast.com:7000/canlican/tv.m3u8"
+            ]
+        },
+        {
+            "id": "Tu12",
+            "title": "CNN Turk",
+            "coverImageUrl": "https://www.tv-direct.fr/assets/logo/chaines/cnn-turk.jpg",
+            "videoUrl": [
+                "http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8",
+                "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_0_192/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu13",
+            "title": "Dogus",
+            "coverImageUrl": "data:image/jpeg;base64,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",
+            "videoUrl": [
+                "https://s01.vpis.io/dogustv/dogustv.m3u8"
+            ]
+        },
+        {
+            "id": "Tu14",
+            "title": "Finans Turk",
+            "coverImageUrl": "https://www.hdtvler.tv/media/images/tvlogo/finansturk-tv-hdtvler-n4oj.png",
+            "videoUrl": [
+                "http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu15",
+            "title": "Halk",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg",
+            "videoUrl": [
+                "https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu16",
+            "title": "Kon",
+            "coverImageUrl": "https://www.kubraaktas.com/yeni/wp-content/uploads/2018/05/Kontv.png",
+            "videoUrl": [
+                "https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8",
+                "https://59cba4d34b678.streamlock.net/live/kontv/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu17",
+            "title": "Kral Pop",
+            "coverImageUrl": "https://www.hdtvler.tv/media/images/tvlogo/kralpoptv-hdtvler-9yj3.png",
+            "videoUrl": [
+                "https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8",
+                "https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu18",
+            "title": "Kral",
+            "coverImageUrl": "https://cdn1.ntv.com.tr/gorsel/6KkcK3HMjUqywHun7od7RA.jpg",
+            "videoUrl": [
+                "http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8",
+                "https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8",
+                "https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu19",
+            "title": "Natural Tv",
+            "coverImageUrl": "https://pbs.twimg.com/profile_images/1326786733778866178/1JXfIX97.jpg",
+            "videoUrl": [
+                "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
+                "http://broadcasttr.com:1935/naturaltv/bant1/chunklist_w1504695542.m3u8"
+            ]
+        },
+        {
+            "id": "Tu20",
+            "title": "NTV",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png",
+            "videoUrl": [
+                "https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8",
+                "http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8",
+                "https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu21",
+            "title": "ON4",
+            "coverImageUrl": "https://pbs.twimg.com/profile_images/1186592801661820928/aHfj-FFi_400x400.jpg",
+            "videoUrl": [
+                "http://yayin.netradyom.com:1935/live/on4/playlist.m3u8",
+                "http://yayin.netradyom.com:1935/live/on4/chunklist_w372471522.m3u8"
+            ]
+        },
+        {
+            "id": "Tu22",
+            "title": "Rudaw",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Rudaw.jpg",
+            "videoUrl": [
+                "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu23",
+            "title": "SAT7 Turk",
+            "coverImageUrl": "https://www.sat7turk.com/wp-content/uploads/2016/11/sat7logo-mid.png",
+            "videoUrl": [
+                "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8"
+            ]
+        },
+        {
+            "id": "Tu24",
+            "title": "Star",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",
+            "videoUrl": [
+                "https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8",
+                "http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8"
+            ]
+        },
+        {
+            "id": "Tu25",
+            "title": "Tivi Turk",
+            "coverImageUrl": "https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g.jpg",
+            "videoUrl": [
+                "https://stream.tiviturk.de/live/tiviturk.m3u8"
+            ]
+        },
+        {
+            "id": "Tu26",
+            "title": "TRT1",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png",
+            "videoUrl": [
+                "https://tv-trt1.live.trt.com.tr/master.m3u8"
+            ]
+        },
+        {
+            "id": "Tu27",
+            "title": "TRT Avaz",
+            "coverImageUrl": "https://www.canlitv.dev/wp-content/uploads/2021/01/trt-avaz.png",
+            "videoUrl": [
+                "https://tv-trtavaz.live.trt.com.tr/master.m3u8"
+            ]
+        },
+        {
+            "id": "Tu28",
+            "title": "TRT Cocuk",
+            "coverImageUrl": "https://static.wikia.nocookie.net/logopedia/images/8/85/TRT_COCUK.png",
+            "videoUrl": [
+                "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
+                "https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8"
+            ]
+        },
+        {
+            "id": "Tu29",
+            "title": "TRT Haber",
+            "coverImageUrl": "https://pbs.twimg.com/profile_images/1308528999040155658/lNuiSau4_400x400.png",
+            "videoUrl": [
+                "https://tv-trthaber.live.trt.com.tr/master.m3u8"
+            ]
+        },
+        {
+            "id": "Tu30",
+            "title": "TRT Kurdi",
+            "coverImageUrl": "https://icdn.ensonhaber.com/resimler/diger/trt_3236.jpg",
+            "videoUrl": [
+                "https://tv-trtkurdi.live.trt.com.tr/master.m3u8"
+            ]
+        },
+        {
+            "id": "Tu31",
+            "title": "TRT Muzik",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/TRT_M%C3%BCzik_kurumsal_logo.png",
+            "videoUrl": [
+                "https://tv-trtmuzik.live.trt.com.tr/master.m3u8"
+            ]
+        },
+        {
+            "id": "Tu32",
+            "title": "TRT Turk",
+            "coverImageUrl": "http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.20.47/7c213cbbd7c4438a99bd9304f7c35a72.png",
+            "videoUrl": [
+                "https://tv-trtturk.live.trt.com.tr/master.m3u8"
+            ]
+        },
+        {
+            "id": "Tu33",
+            "title": "Ucankus",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/U%C3%A7anku%C5%9F_TV_yeni_logo.jpg",
+            "videoUrl": [
+                "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8",
+                "https://upload.wikimedia.org/wikipedia/commons/a/ab/U%C3%A7anku%C5%9F_TV_yeni_logo.jpg"
+            ]
+        }
+
+
+    ]
+}
