@@ -294,6 +294,14 @@
                 "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
                 "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8"
                 ]
+        },
+        {
+            "id": "Us36",
+            "title": "Bein Sport Xtra",
+            "coverImageUrl": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
+            "videoUrl": [
+                "https://bein-plutolive-vo.akamaized.net/playlist720blp.m3u8"
+                ]
         }
 
     ]
