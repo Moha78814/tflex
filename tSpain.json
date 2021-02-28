@@ -211,6 +211,15 @@
             "videoUrl": [
                 "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8"
                 ]
+        },
+        {
+            "id": "Sp26",
+            "title": "WOW! TV",
+            "coverImageUrl": "https://lh3.googleusercontent.com/proxy/jetOSmChZffE81GhaiVDDWr_3kN-CPProUSUp5VrFG9rQZNGY34Iu9sbBT9WvEQrmzUr-tCMGh-3z1Z228p4WEvoSXrJFf3Gas5EFF4Zv7pHYk5UfB_syqfFx_lwlpGopOvgtIkovlcbZQ",
+            "videoUrl": [
+                "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8",
+                "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8"
+                ]
         }
 
     ]
