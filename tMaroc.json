@@ -68,7 +68,7 @@
             "videoUrl": [
                 "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w699630923.m3u8",
                 "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist_w1082520528_b328000_DVR_slar.m3u8",
-                "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/chunklist_w497583384_b978000_DVR_slar.m3u8"
+                "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/chunklist_w1929924548_b1428000_DVR_slar.m3u8"
             ]
         },
         {
@@ -93,6 +93,14 @@
             "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhBTc5pKS-ZH93po4M_G_gRmZRB-XiqswWgR4fwMQ=s900-c-k-c0x00ffffff-no-rj",
             "videoUrl": [
                 "https://playback.akamaized.net/streams/27130247_8196478_lsiuq130ew5l5vo5f6v_1/media/27130247_8196478_lsiuq130ew5l5vo5f6v_1@2756000p.m3u8?dw=32&ts=1610121600&hdnts=exp=1610297998~acl=/streams/27130247_8196478_lsiuq130ew5l5vo5f6v_1/media*~hmac=80ba4c112bb30650721752467f1fbd80830b8b9a5e065d2628095acfe7b4252c"
+            ]
+        },
+        {
+            "id": "Mr12",
+            "title": "M24",
+            "coverImageUrl": "https://www.m24tv.ma/ar/system/files/LOGO-M24-VF-sans-texte.png",
+            "videoUrl": [
+                "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist_w1587186353_b4500000_sleng.m3u8"
             ]
         }
 
