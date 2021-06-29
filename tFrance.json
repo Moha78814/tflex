@@ -1,23 +1,5 @@
 {
     "videos": [
-        {
-            "id": "Fr01",
-            "title": "France24",
-            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
-            "videoUrl": [
-                "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
-                "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"
-            ]
-        },
-        {
-            "id": "Fr02",
-            "title": "RT",
-            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png",
-            "videoUrl": [
-                "https://rt-france.secure.footprint.net/1107_1600Kb.m3u8",
-                "https://rt-france.secure.footprint.net/1107_2500Kb.m3u8",
-                "https://rt-france.secure.footprint.net/1107.m3u8?streamType=live"
-            ]
-        }
+      
     ]
 }
