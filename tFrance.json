@@ -5,9 +5,7 @@
             "title": "France24",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",
             "videoUrl": [
-                "http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8",
-                "http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8",
-                "http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+                "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
                 "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"
             ]
         },
@@ -61,8 +59,7 @@
             "title": "BFM Paris",
             "coverImageUrl": "https://i.imgur.com/4buTOS3.png",
             "videoUrl": [
-                "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8",
-                "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8"
+                "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on",
             ]
         },
         {
@@ -150,7 +147,8 @@
             "title": "TV78",
             "coverImageUrl": "https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png",
             "videoUrl": [
-                "https://origin2.dvmr.fr/hls/tvfil78/tvfil78.m3u8"
+                "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8",
+                "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8"
             ]
         },
         {
@@ -183,7 +181,7 @@
             "title": "BFM Tv",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png",
             "videoUrl": [
-                "https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8",
+                "https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8",
                 "https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8"
             ]
         },
@@ -233,6 +231,38 @@
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_W9_2018.svg/1200px-Logo_W9_2018.svg.png",
             "videoUrl": [
                 "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/03.m3u8"
+            ]
+        },
+        {
+            "id": "Fr28",
+            "title": "Tv Kids",
+            "coverImageUrl": "https://t3.ftcdn.net/jpg/02/23/48/44/360_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",
+            "videoUrl": [
+                "https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr29",
+            "title": "Film Accion",
+            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "videoUrl": [
+                "https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr30",
+            "title": "Film Comedy",
+            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "videoUrl": [
+                "https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr31",
+            "title": "Film Famille",
+            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "videoUrl": [
+                "https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
             ]
         }
     ]
