@@ -232,6 +232,39 @@
             "videoUrl": [
                 "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/03.m3u8"
             ]
+        },
+        ,
+        {
+            "id": "Fr28",
+            "title": "Tv Kids",
+            "coverImageUrl": "https://t3.ftcdn.net/jpg/02/23/48/44/360_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",
+            "videoUrl": [
+                "https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr29",
+            "title": "Film Accion",
+            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "videoUrl": [
+                "https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr30",
+            "title": "Film Comedy",
+            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "videoUrl": [
+                "https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
+        },
+        {
+            "id": "Fr31",
+            "title": "Film Famille",
+            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "videoUrl": [
+                "https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
+            ]
         }
     ]
 }
