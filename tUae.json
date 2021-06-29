@@ -115,7 +115,7 @@
             "title": "Dubai",
             "coverImageUrl": "https://media.elcinema.com/tvguide/1169_1.png",
             "videoUrl": [
-                "http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b850000.m3u8",
+                "http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8",
                 "https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8"
             ]
         },
@@ -124,7 +124,7 @@
             "title": "Dubai sama",
             "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FCsVHnt9uuo3wicetjjWm7KjgS9XwbRRPQ&usqp=CAU",
             "videoUrl": [
-                "https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1500000.m3u8"
+                "http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8"
             ]
         },
         {
@@ -178,7 +178,7 @@
             "title": "Al Hadath",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg",
             "videoUrl": [
-                "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8",
+                "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_240p/chunks.m3u8",
                 "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8"
             ]
         },
@@ -187,6 +187,7 @@
             "title": "Sky News arabia",
             "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hMXUTrCFiGQ8Ru6EyXgM5_3P6xucKVrrOw&usqp=CAU",
             "videoUrl": [
+                "https://stream.skynewsarabia.com/hls/sna_720.m3u8",
                 "https://stream.skynewsarabia.com/hls/sna_720.m3u8"
             ]
         },
@@ -264,7 +265,8 @@
             "title": "Al dafrah",
             "coverImageUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEOVm3pNOqnuw/company-logo_200_200/0/1519892447059?e=2159024400&v=beta&t=y3N_rl4mqEM_26rPUepJ1rIHmXI43T-G6rHmMxB0txc",
             "videoUrl": [
-                "https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8?sd=10&rebase=on"
+                "https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8?sd=10&rebase=on",
+                "https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8"
             ]
         },
         {
@@ -272,10 +274,9 @@
             "title": "Al Aan",
             "coverImageUrl": "https://wpcdn.alaan.tv/2020/09/28/20200928-1601289938009-original.png",
             "videoUrl": [
-                "https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist_w351303079.m3u8",
+                "https://stream-06.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xs54aqLr6Y4Cac_uayq9dH0)/dm/3/x74wje5/s/live-2.m3u8",
                 "https://stream-07.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqAQZ-V8eaHVhmtljr3waXg)/dm/3/x74wje5/s/live-2.m3u8",
-                "https://stream-07.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqAQZ-V8eaHVhmtljr3waXg)/dm/3/x74wje5/s/live-1.m3u8",
-                ""
+                "https://stream-07.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqAQZ-V8eaHVhmtljr3waXg)/dm/3/x74wje5/s/live-1.m3u8"
             ]
         },
         {
