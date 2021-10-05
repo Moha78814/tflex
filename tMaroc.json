@@ -56,7 +56,7 @@
         {
             "id": "Mr07",
             "title": "Al Laayoune",
-            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png",
+            "coverImageUrl": "https://www.freqsat.com/wp-content/uploads/2018/08/Al-Aoula-Laayoune-TV.png",
             "videoUrl": [
                 "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
             ]
@@ -66,8 +66,7 @@
             "title": "Medi1 Ar",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
             "videoUrl": [
-                "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w699630923.m3u8",
-                "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist_w1082520528_b328000_DVR_slar.m3u8",
+                "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w2002399032_b978000_DVR_slar.m3u8",
                 "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/chunklist_w1929924548_b1428000_DVR_slar.m3u8"
             ]
         },
@@ -76,7 +75,7 @@
             "title": "Medi1 Fr",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
             "videoUrl": [
-                "https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1382350867.m3u8"
+                "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w1905890697_b978000_DVR_slar.m3u8"
             ]
         },
         {
@@ -84,7 +83,8 @@
             "title": "2M",
             "coverImageUrl": "https://i.pinimg.com/originals/af/36/84/af36846c297c298f74130fb610d5d8fb.jpg",
             "videoUrl": [
-                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+                "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
             ]
         },
         {
@@ -92,7 +92,7 @@
             "title": "télé Maroc",
             "coverImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhBTc5pKS-ZH93po4M_G_gRmZRB-XiqswWgR4fwMQ=s900-c-k-c0x00ffffff-no-rj",
             "videoUrl": [
-                "https://playback.akamaized.net/streams/27130247_8196478_lsiuq130ew5l5vo5f6v_1/media/27130247_8196478_lsiuq130ew5l5vo5f6v_1@2756000p.m3u8?dw=32&ts=1610121600&hdnts=exp=1610297998~acl=/streams/27130247_8196478_lsiuq130ew5l5vo5f6v_1/media*~hmac=80ba4c112bb30650721752467f1fbd80830b8b9a5e065d2628095acfe7b4252c"
+                "https://playback.akamaized.net/streams/27130247_8196478_lsid3ph0gycleoqdj47_1/media/27130247_8196478_lsid3ph0gycleoqdj47_1@5256000p.m3u8?dw=14400&ts=1633428000&hdnts=exp=1633603642~acl=/streams/27130247_8196478_lsid3ph0gycleoqdj47_1/media*~hmac=eefa4fccc0e142d5835ed1b43af29316af33c971868dc67c4c2e4b66e560d99f"
             ]
         },
         {
