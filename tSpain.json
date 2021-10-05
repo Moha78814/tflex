@@ -6,7 +6,7 @@
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
             "videoUrl": [
                 "https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
-                "https://rtvelivestream.akamaized.net/24h_dvr.m3u8"
+                "https://rtvelivestreamv3.akamaized.net/24h_main_dvr_576.m3u8"
                 ]
         },
         {
@@ -39,7 +39,7 @@
         {
             "id": "Sp05",
             "title": "Cuatro",
-            "coverImageUrl": "https://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg",
+            "coverImageUrl": "https://cadenaser00.epimg.net/ser/imagenes/2018/02/16/television/1518793828_982795_1518794986_noticia_normal.jpg",
             "videoUrl": [
                 "https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c",
                 "https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/k20wk5j.m3u8?s=C4aSkT-Rp1g-NPJ0WNFDWg&e=1609291935"
@@ -51,7 +51,8 @@
             "title": "Telemadrid",
             "coverImageUrl": "https://static.wikia.nocookie.net/logopedia/images/7/73/Free-vector-telemadrid_062753_telemadrid.png/revision/latest/scale-to-width-down/340?cb=20151228230701",
             "videoUrl": [
-                "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8"
+                "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
+                "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8"
                 ]
         },
         {
@@ -59,7 +60,7 @@
             "title": "Trece",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png",
             "videoUrl": [
-                "https://live-edge-mad-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8",
+                "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
                 "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
                 ]
         },
@@ -69,15 +70,15 @@
             "coverImageUrl": "https://yt3.ggpht.com/-zvPqz5WM4EE/AAAAAAAAAAI/AAAAAAAAAAA/fh1Q0Ycpv2M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
             "videoUrl": [
                 "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8",
-                "https://xaw2r7fna3gky66.ezcdn421.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=CwcC3YyAqfo1i3Vq_2f5gQ&e=1609725598"
+                "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1633521875~acl=%2f*~data=hdntl~hmac=66ae6426c89c41a152b6549db6a236a18f6cd02bd6015dabfa410f54fcaa4d2d"
                 ]
         },
         {
             "id": "Sp10",
             "title": "25Tv",
-            "coverImageUrl": "https://www.lazonamedia.com/imgsop/25TV.jpg",
+            "coverImageUrl": "https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/25_TV.png",
             "videoUrl": [
-                "https://cdnliveb.shooowit.net/25televisiolive/smil:channel1.smil/chunklist_b1500000.m3u8"
+                "https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8"
                 ]
         },
         {
@@ -85,15 +86,8 @@
             "title": "RT es",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/langfr-180px-Russia-today-logo.svg.png",
             "videoUrl": [
-                "https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8"
-                ]
-        },
-        {
-            "id": "Sp12",
-            "title": "mtmad",
-            "coverImageUrl": "https://www.neeo.es/wp-content/uploads/2016/12/logo-mtmad.jpg",
-            "videoUrl": [
-                "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8"
+                "https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8",
+                "https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8"
                 ]
         },
         {
@@ -110,7 +104,8 @@
             "title": "telemax",
             "coverImageUrl": "https://live-tv-channels.org/pt-data/uploads/logo/ar-tlx-telemax.jpg",
             "videoUrl": [
-                "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1676710468_b364000_sleng.m3u8"
+                "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1676710468_b364000_sleng.m3u8",
+                "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8"
                 ]
         },
         {
@@ -191,7 +186,7 @@
         {
             "id": "Sp24",
             "title": "Pequeradio TV",
-            "coverImageUrl": "https://lh3.googleusercontent.com/proxy/L7oUhfXPAgwWvIrxweXF4mwxlVpb0WiaU_YOyoiqeynmu48tj3FSYsgLbxtvczrST9pnQGmHyEckmjeuAJ3xe4sHXSsmch5L5YtG-wyR9etd93cIeGZ0fcMpv1eKdCknA0hdQYqFmwE_",
+            "coverImageUrl": "https://liveonlineradio.net/wp-content/uploads/2017/04/Peque-Radio.jpg",
             "videoUrl": [
                 "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
                 ]
@@ -207,10 +202,62 @@
         {
             "id": "Sp26",
             "title": "WOW! TV",
-            "coverImageUrl": "https://lh3.googleusercontent.com/proxy/jetOSmChZffE81GhaiVDDWr_3kN-CPProUSUp5VrFG9rQZNGY34Iu9sbBT9WvEQrmzUr-tCMGh-3z1Z228p4WEvoSXrJFf3Gas5EFF4Zv7pHYk5UfB_syqfFx_lwlpGopOvgtIkovlcbZQ",
+            "coverImageUrl": "https://www.coolstreaming.us/img/ch/image36758429464.jpg",
             "videoUrl": [
                 "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8",
                 "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8"
+                ]
+        },
+        {
+            "id": "Sp27",
+            "title": "DW",
+            "coverImageUrl": "http://ww2.ac-poitiers.fr/allemand/sites/allemand/IMG/arton337.gif?1402584849",
+            "videoUrl": [
+                "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on"
+                ]
+        }
+        
+        ,
+        {
+            "id": "Sp28",
+            "title": "Anime",
+            "coverImageUrl": "https://ih1.redbubble.net/image.409945218.9929/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg",
+            "videoUrl": [
+                "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+                "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+                ]
+        },
+        {
+            "id": "Sp29",
+            "title": "AnimeZoneTv",
+            "coverImageUrl": "https://static.fnac-static.com/multimedia/Images/FD/Comete/142604/CCP_IMG_ORIGINAL/1876355.jpg",
+            "videoUrl": [
+                "http://azxtv.com/hls/stream.m3u8"
+                ]
+        },
+        {
+            "id": "Sp30",
+            "title": "Animakids",
+            "coverImageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2018/05/anime-for-beginners-slice.jpg",
+            "videoUrl": [
+                "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+                ]
+        },
+        {
+            "id": "Sp27",
+            "title": "Animé Accion",
+            "coverImageUrl": "https://images.saymedia-content.com/.image/t_share/MTc0NTA2NjYwMTMwMjAzNjM4/the-five-best-action-anime-of-2019.jpg",
+            "videoUrl": [
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+                ]
+        },
+        {
+            "id": "Sp27",
+            "title": "DW",
+            "coverImageUrl": "http://ww2.ac-poitiers.fr/allemand/sites/allemand/IMG/arton337.gif?1402584849",
+            "videoUrl": [
+                "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on"
                 ]
         },
         {
