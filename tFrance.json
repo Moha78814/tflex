@@ -180,7 +180,7 @@
         {
             "id": "Fr26",
             "title": "3ABN Français",
-            "coverImageUrl": "https://3abn.org/img/logos/3abn-france-logo-md.jpg",
+            "coverImageUrl": "https://www.adventisttv.org/assets/img/main/3ABN_Francais.png",
             "videoUrl": [
                 "https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8"
             ]
@@ -204,22 +204,41 @@
         {
             "id": "Fr29",
             "title": "Film Accion",
-            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "coverImageUrl": "https://img.flaticon.com/icons/png/512/54/54335.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF",
             "videoUrl": [
-                "https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
             ]
         },
         {
             "id": "Fr30",
             "title": "Film Comedy",
-            "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
+            "coverImageUrl": "https://img.flaticon.com/icons/png/512/54/54335.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF",
             "videoUrl": [
-                "https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
             ]
         },
         {
             "id": "Fr31",
             "title": "Film Famille",
+            "coverImageUrl": "https://img.flaticon.com/icons/png/512/54/54335.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF",
+            "videoUrl": [
+                "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+            ]
+        }
+        ,
+        {
+            "id": "Fr32",
+            "title": "Icarly",
+            "coverImageUrl": "https://static.tvtropes.org/pmwiki/pub/images/icarly_3.png",
+            "videoUrl": [
+                "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+                "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a4570-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0432d921-f53e-4dfe-8afd-2d0b3fb750f3"
+            ]
+        },
+          {
+            "id": "Fr33",
+            "title": "kids",
             "coverImageUrl": "https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",
             "videoUrl": [
                 "https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
