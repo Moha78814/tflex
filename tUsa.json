@@ -5,7 +5,7 @@
         {
             "id": "Us02",
             "title": "ABC",
-            "coverImageUrl": "https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",
+            "coverImageUrl": "http://assets.stickpng.com/images/5842aa04a6515b1e0ad75b07.png",
             "videoUrl": [
                 "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8"
                 ]
@@ -13,7 +13,7 @@
         {
             "id": "Us03",
             "title": "sidewalks",
-            "coverImageUrl": "https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sidewalks-logo.png",
             "videoUrl": [
                 "https://30a-tv.com/sidewalks.m3u8"
                 ]
@@ -45,7 +45,7 @@
         {
             "id": "Us07",
             "title": "AKC",
-            "coverImageUrl": "https://akc.org/wp-content/uploads/2017/11/AKC-Logo-seo-sm-1.png",
+            "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",
             "videoUrl": [
                 "https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8",
                 "https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8"
@@ -156,7 +156,7 @@
         {
             "id": "Us22",
             "title": "Shop HQ",
-            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png",
+            "coverImageUrl": "https://www.shophq.com/images/store1/logos/shophq-fall2021.png",
             "videoUrl": [
                 "https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8"
                 ]
@@ -164,7 +164,7 @@
         {
             "id": "Us23",
             "title": "FOX Sport",
-            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",
             "videoUrl": [
                 "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
                 ]
@@ -210,22 +210,7 @@
                 "https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8"
                 ]
         },
-        {
-            "id": "Us29",
-            "title": "Epix",
-            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1200px-Epix_Logo_2019.svg.png",
-            "videoUrl": [
-                "https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8"
-                ]
-        },
-        {
-            "id": "Us30",
-            "title": "Epix2",
-            "coverImageUrl": "https://cdn.tvpassport.com/image/station/240x135/epix2019_2.png",
-            "videoUrl": [
-                "https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8"
-                ]
-        },
+     
         {
             "id": "Us31",
             "title": "filmrise Classic",
@@ -271,10 +256,27 @@
         },
         {
             "id": "Us36",
-            "title": "Bein Sport Xtra",
-            "coverImageUrl": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
+            "title": "Animax",
+            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Logo_Animax.svg/1200px-Logo_Animax.svg.png",
             "videoUrl": [
-                "https://bein-plutolive-vo.akamaized.net/playlist720blp.m3u8"
+                "https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8"
+                ]
+        },
+        {
+            "id": "Us37",
+            "title": "conTV",
+            "coverImageUrl": "https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-eaf2d2d/images/cancelcable/Contv-logoBig-300x202.png",
+            "videoUrl": [
+                "https://contvanime-localnow.cinedigm.com/playlist.m3u8"
+                ]
+        },
+     
+        {
+            "id": "Us37",
+            "title": "Anime",
+            "coverImageUrl": "https://images.saymedia-content.com/.image/t_share/MTc0NTA2NjYwMTMwMjAzNjM4/the-five-best-action-anime-of-2019.jpg",
+            "videoUrl": [
+                "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
                 ]
         }
 
