@@ -13,11 +13,9 @@
         {
             "id": "UA02",
             "title": "mbc2",
-            "coverImageUrl": "https://www.allied-media.com/ARABTV/images/MBC2.jpg",
+            "coverImageUrl": "https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png",
             "videoUrl": [
-                "https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_5.m3u8",
-                "https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8",
-                "https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_3.m3u8"
+                "https://freedemo1.xyz:2083/live/lifeneed/lifeworth/64.m3u8",
             ]
         },
         {
@@ -53,7 +51,20 @@
             "title": "mbc Drama",
             "coverImageUrl": "https://4.bp.blogspot.com/-ZZPqWKPur1s/WPkWoJWwNgI/AAAAAAAAFSw/WahFFiNnvtcrRFswmKcTrItbbZc_u4vYwCLcB/s1600/mbc_ae_drama_hd.png",
             "videoUrl": [
-                "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8"
+                "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8",
+                "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8",
+                "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8"
+            ]
+        },
+        {
+            "id": "UA061",
+            "title": "mbc Drama Plus",
+            "coverImageUrl": "http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png",
+            "videoUrl": [
+                "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8",
+                "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+                "https://au7live.tooliserver.com/live/149016_0.m3u8?session="
+                
             ]
         },
         {
@@ -61,7 +72,8 @@
             "title": "mbc Max",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/MBC_Max_logo.png/280px-MBC_Max_logo.png",
             "videoUrl": [
-                "https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8"
+                "https://freedemo1.xyz:2083/live/lifeneed/lifeworth/60.m3u8",
+                "https://au7live.tooliserver.com/live/149015_0.m3u8?session="
             ]
         },
         {
@@ -69,8 +81,9 @@
             "title": "mbc Action",
             "coverImageUrl": "https://www.almowaten.net/wp-content/uploads/2020/10/8de24a155e2152c225375f0b4dc51ca5.jpg",
             "videoUrl": [
-                "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8",
-                "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8"
+                "https://freedemo1.xyz:2083/live/lifeneed/lifeworth/58.m3u8",
+                "https://au7live.tooliserver.com/live/149013_0.m3u8?session="
+                
             ]
         },
         {
@@ -78,13 +91,14 @@
             "title": "mbc Bollywood",
             "coverImageUrl": "https://cdn6.aptoide.com/imgs/5/5/c/55c7cb6c0a0661864d88d31f5b181cf8_icon.png",
             "videoUrl": [
-                "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8"
+                "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8",
+                "https://au7live.tooliserver.com/live/149014_0.m3u8?session="
             ]
         },
         {
             "id": "UA10",
             "title": "Majid",
-            "coverImageUrl": "https://admedia.ae/images/Brands/202022153932547TH.png",
+            "coverImageUrl": "https://i0.wp.com/www.millereponses.com/wp-content/uploads/2018/11/majid-frequence-nilesat.jpg?ssl=1",
             "videoUrl": [
                 "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
                 "http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
@@ -96,7 +110,8 @@
             "title": "Arabic Cartoon",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",
             "videoUrl": [
-                "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_10.m3u8"
+                "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_10.m3u8",
+                "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
             ]
         },
         {
@@ -124,7 +139,8 @@
             "title": "Dubai sama",
             "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FCsVHnt9uuo3wicetjjWm7KjgS9XwbRRPQ&usqp=CAU",
             "videoUrl": [
-                "http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8"
+                "http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8",
+                "https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8"
             ]
         },
         {
@@ -133,7 +149,8 @@
             "coverImageUrl": "https://marwanbenhafsia.files.wordpress.com/2015/02/dubai-one-logo.jpg",
             "videoUrl": [
                 "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8",
-                "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8"
+                "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8",
+                "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
             ]
         },
         {
@@ -150,7 +167,8 @@
             "title": "Dubai Zaman",
             "coverImageUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3e2e9ac.png",
             "videoUrl": [
-                "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8"
+                "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8",
+                "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8"
             ]
         },
         {
@@ -168,9 +186,8 @@
             "title": "Al Arabiya",
             "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWm7eR-4_HTUvkhX-sj9fLFgReZ_nUVoL5ig&usqp=CAU",
             "videoUrl": [
-                "https://av.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8",
                 "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8",
-                "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8"
+                "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
             ]
         },
         {
@@ -205,7 +222,8 @@
             "title": "Dubai Sport 1",
             "coverImageUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png",
             "videoUrl": [
-                "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8"
+                "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8",
+                "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8"
             ]
         },
         {
@@ -213,7 +231,8 @@
             "title": "Dubai Sport 2",
             "coverImageUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png",
             "videoUrl": [
-                "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8"
+                "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8",
+                "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
             ]
         },
         {
@@ -222,7 +241,8 @@
             "coverImageUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934da293.png",
             "videoUrl": [
                 "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8",
-                "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8"
+                "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8",
+                "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
             ]
         },
         {
@@ -230,7 +250,8 @@
             "title": "Dubai Racing",
             "coverImageUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png",
             "videoUrl": [
-                "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8"
+                "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8",
+                "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8"
             ]
         },
         {
@@ -238,7 +259,8 @@
             "title": "Dubai Racing 2",
             "coverImageUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png",
             "videoUrl": [
-                "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8"
+                "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8",
+                "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
             ]
         },
         {
@@ -246,7 +268,8 @@
             "title": "Dubai Racing 3",
             "coverImageUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png",
             "videoUrl": [
-                "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b300000.m3u8"
+                "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b300000.m3u8",
+                "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
             ]
         },
         {
@@ -274,15 +297,13 @@
             "title": "Al Aan",
             "coverImageUrl": "https://wpcdn.alaan.tv/2020/09/28/20200928-1601289938009-original.png",
             "videoUrl": [
-                "https://stream-06.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xs54aqLr6Y4Cac_uayq9dH0)/dm/3/x74wje5/s/live-2.m3u8",
-                "https://stream-07.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqAQZ-V8eaHVhmtljr3waXg)/dm/3/x74wje5/s/live-2.m3u8",
-                "https://stream-07.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqAQZ-V8eaHVhmtljr3waXg)/dm/3/x74wje5/s/live-1.m3u8"
+                "http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x74wje5",
             ]
         },
         {
             "id": "UA32",
             "title": "YAS",
-            "coverImageUrl": "https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports-e1600094421460.png",
+            "coverImageUrl": "https://live-tv-channels.org/pt-data/uploads/logo/ae-yas-tv-5972-768x576.jpg",
             "videoUrl": [
                 "https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
                 "https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8"
@@ -324,14 +345,6 @@
                 "https://admdn4ta.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8",
                 "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
                 "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
-            ]
-        },
-        {
-            "id": "UA37",
-            "title": "Boomerang",
-            "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",
-            "videoUrl": [
-                "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
             ]
         },
         {
