@@ -5,8 +5,8 @@
             "title": "mbc1",
             "coverImageUrl": "https://ahdath-alyom.com/wp-content/uploads/2020/08/f66daaf3c860e89f22b1665ca927ce32.png",
             "videoUrl": [
-                "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8",
-                "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8",
+                "https://channal-code.herokuapp.com/http://93.184.1.247/MBC1/tracks-v1a1/mono.m3u8",
+                "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8",
                 "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8"
             ]
         },
@@ -15,7 +15,7 @@
             "title": "mbc2",
             "coverImageUrl": "https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png",
             "videoUrl": [
-                "https://freedemo1.xyz:2083/live/lifeneed/lifeworth/64.m3u8"
+                "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8"
             ]
         },
         {
@@ -32,7 +32,7 @@
             "title": "mbc4",
             "coverImageUrl": "https://i.pinimg.com/originals/28/9e/a5/289ea5a998bfc3dd625dbf8da74e631a.png",
             "videoUrl": [
-                "https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8",
+                "https://channal-code.herokuapp.com/http://93.184.1.247/MBC4/tracks-v1a1/mono.m3u8",
                 "https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8"
             ]
         },
