@@ -95,6 +95,14 @@
                 "https://au7live.tooliserver.com/live/149014_0.m3u8?session="
             ]
         },
+         {
+            "id": "UA90",
+            "title": "mbc Iraq",
+            "coverImageUrl": "https://1.bp.blogspot.com/-xxt5X8DoFQ0/XZiaKhtpqwI/AAAAAAAAC4w/f_R6sGJMqbkkS5ucYh5xwGe5H61PufygACLcBGAsYHQ/s320/%25D8%25B9%25D8%25B1%25D8%25A7%25D9%2582.jpg",
+            "videoUrl": [
+                "https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_3.m3u8"
+            ]
+        },
         {
             "id": "UA10",
             "title": "Majid",
