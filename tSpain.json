@@ -24,7 +24,7 @@
             "title": "La2",
             "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png",
             "videoUrl": [
-                "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8",
+                "https://ztnr.rtve.es/ztnr/1688885.m3u8",
                 "https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8"
                 ]
         },
@@ -232,7 +232,7 @@
             "title": "AnimeZoneTv",
             "coverImageUrl": "https://static.fnac-static.com/multimedia/Images/FD/Comete/142604/CCP_IMG_ORIGINAL/1876355.jpg",
             "videoUrl": [
-                "http://azxtv.com/hls/stream.m3u8"
+                "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
                 ]
         },
         {
